@@ -1,0 +1,1 @@
+Hello, I'm Nhu. I'm studying Front-end at CodeGym.
